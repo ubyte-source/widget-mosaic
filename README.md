@@ -44,11 +44,11 @@ document.appendChild(mosaic.out());
 ## Structure
 
 library:
-    - [window.Mosaic](https://github.com/energia-source/widget-mosaic#class-windowmosaic-usable-methods)
-    - [window.Mosaic.Column](https://github.com/energia-source/widget-mosaic#class-windowmosaiccolumn-usable-methods)
-    - [window.Mosaic.Column.Zellige](https://github.com/energia-source/widget-mosaic#class-windowmosaiccolumnzellige-usable-methods)
-    - [window.Mosaic.Column.Zellige.Nav](https://github.com/energia-source/widget-mosaic#class-windowmosaiccolumnzelligenav-usable-methods)
-    - [window.Mosaic.Column.Zellige.Preloade](https://github.com/energia-source/widget-mosaic#class-windowmosaiccolumnzelligepreloader-usable-methods)
+- [window.Mosaic](https://github.com/energia-source/widget-mosaic#class-windowmosaic-usable-methods)
+- [window.Mosaic.Column](https://github.com/energia-source/widget-mosaic#class-windowmosaiccolumn-usable-methods)
+- [window.Mosaic.Column.Zellige](https://github.com/energia-source/widget-mosaic#class-windowmosaiccolumnzellige-usable-methods)
+- [window.Mosaic.Column.Zellige.Nav](https://github.com/energia-source/widget-mosaic#class-windowmosaiccolumnzelligenav-usable-methods)
+- [window.Mosaic.Column.Zellige.Preloade](https://github.com/energia-source/widget-mosaic#class-windowmosaiccolumnzelligepreloader-usable-methods)
 
 <br>
 
